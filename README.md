@@ -9,7 +9,7 @@
 | 4.    | PyTorch Image Classification using NN | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/4.Pytorch%20Image%20Classification%20using%20NN.ipynb) |
 | 5.    | PyTorch FashionMNIST Image classification using CNN | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/5.Pytorch%20FashionMNIST%20Image%20Classification%20using%20CNN.ipynb) |
 | 6. | PyTorch Transfer Learning using Resnet18 | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/6.Pytorch%20Transfer%20Learning.ipynb) |
-|  |  |  |
+| 7. | Pytorch Transfer Learning using VGG16 | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/7.Pytorch_Transfer_Learning_VGG16.ipynb) |
 
 ***Thanks for reading...!!!***
 
