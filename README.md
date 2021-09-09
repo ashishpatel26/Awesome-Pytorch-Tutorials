@@ -1,5 +1,5 @@
 # Awesome-Pytorch-Tutorials
-**Awesome Pytorch Tutorials**
+**Awesome Pytorch Tutorials** - Previous Repository - [Pytorch-Learning](https://github.com/ashishpatel26/Pytorch-Learning.git)
 
 | Sr No | Topic                         | GitHub                                                       |
 | ----- | ----------------------------- | ------------------------------------------------------------ |
