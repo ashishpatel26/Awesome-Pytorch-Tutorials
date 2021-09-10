@@ -12,6 +12,7 @@
 | 7. | Pytorch Transfer Learning using VGG16 | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/7.Pytorch_Transfer_Learning_VGG16.ipynb) |
 | 8. | Pytorch AutoEncoder with NN Image Reconstruction | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/8.Pytorch%20Deep%20AutoEncoder%20on%20FashionMNIST.ipynb) |
 | 9. | Pytorch AutoEncoder with Conv2d Image Reconstruction | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/9.Pytorch%20Convolution%20AutoEncoder.ipynb) |
+| 10. | Pytorch AutoEncoder with NN Image Denoising | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/10.Pytorch%20AutoEncoder%20Neural%20Network%20for%20Image%20Denoising.ipynb) |
 
 ***Thanks for reading...!!!***
 
