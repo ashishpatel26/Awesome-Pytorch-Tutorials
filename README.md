@@ -14,6 +14,7 @@
 | 9. | Pytorch AutoEncoder with Conv2d Image Reconstruction | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/9.Pytorch%20Convolution%20AutoEncoder.ipynb) |
 | 10. | Pytorch AutoEncoder with NN Image Denoising | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/10.Pytorch%20AutoEncoder%20Neural%20Network%20for%20Image%20Denoising.ipynb) |
 | 11. | Pytorch CustomDataset Class Creation | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/11.Pytorch%20Custom%20Dataset%20and%20Data%20loader.ipynb) |
+| 12. | Pytorch Denoising Text Image Documents using AutoEncoder | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/12.Pytorch%20Denoisign%20Text%20Image%20Documents%20using%20AutoEncoderNN.ipynb) |
 
 ***Thanks for reading...!!!***
 
