@@ -15,6 +15,8 @@
 | 10. | Pytorch AutoEncoder with NN Image Denoising | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/10.Pytorch%20AutoEncoder%20Neural%20Network%20for%20Image%20Denoising.ipynb) |
 | 11. | Pytorch CustomDataset Class Creation | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/11.Pytorch%20Custom%20Dataset%20and%20Data%20loader.ipynb) |
 | 12. | Pytorch Denoising Text Image Documents using AutoEncoder | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/12.Pytorch%20Denoisign%20Text%20Image%20Documents%20using%20AutoEncoderNN.ipynb) |
+| 13. | Pytorch Adding Noise to Image Data for Deep learning Data Augmentation | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/13.%20Pytorch%20Image%20Data%20for%20Deep%20learning%20Data%20Augmentation.ipynb) |
+| 14 | Pytorch Deep learning Model Tracking using Tensorboard | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/14.Pytorch%20Deep%20Learning%20Model%20Tracking%20using%20Tensorboard.ipynb) |
 
 ***Thanks for reading...!!!***
 
