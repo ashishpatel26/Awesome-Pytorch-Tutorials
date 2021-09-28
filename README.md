@@ -18,7 +18,7 @@
 | 13. | Pytorch Adding Noise to Image Data for Deep learning Data Augmentation | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/13.%20Pytorch%20Image%20Data%20for%20Deep%20learning%20Data%20Augmentation.ipynb) |
 | 14. | Pytorch Deep learning Model Tracking using Tensorboard | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/14.Pytorch%20Deep%20Learning%20Model%20Tracking%20using%20Tensorboard.ipynb) |
 | 15. | Pytorch Deep Neural Network Training with NoisyData | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/15.Pytorch%20Robust%20Deep%20learning%20Neural%20Network%20with%20Adding%20Noise.ipynb) |
-| 16. |  |  |
+| 16. | Pytorch Albumentation for Augmentation | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/16.Pytorch%20Image%20Augmentation%20and%20Albumentations.ipynb) |
 | 17. |  |  |
 | 18. |  |  |
 | 19. |  |  |
