@@ -20,7 +20,7 @@
 | 15. | Pytorch Deep Neural Network Training with Noisy Data | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/15.Pytorch%20Robust%20Deep%20learning%20Neural%20Network%20with%20Adding%20Noise.ipynb) |
 | 16. | Pytorch Albumentation for Augmentation | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/16.Pytorch%20Image%20Augmentation%20and%20Albumentations.ipynb) |
 | 17. | Pytorch Transfer learning with Caltech101 with Resnet34 | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/17.Pytorch%20Transfer%20learning%20with%20Caltech101.ipynb) |
-| 18. | Pytorch Class Accuracy on Imbalance Dataset with Caltech256 |  |
+| 18. | Pytorch Class Accuracy on Imbalance Dataset with Caltech256 | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Awesome-Pytorch-Tutorials/blob/main/18.Pytorch%20Class%20Accuracy%20on%20Imbalance%20Dataset%20with%20Caltech256.ipynb) |
 | 19. | Pytorch Sparse Autoencoder using L1 Regularization |  |
 | 20. | Pytorch Sparse Autoencoders using KL Divergence |  |
 | 21. | Pytorch Visualizing Filters and Feature Maps in CNN | |
